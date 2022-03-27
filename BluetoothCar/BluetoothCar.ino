@@ -21,7 +21,7 @@ const int TrigPin = 8;
 const int EchoPin = 9;
 const int Head = 11;
 // Position for Servo
-const int Central = 90;
+const int Central = 90; 
 const int LeftPos = 160;
 const int RightPos = 20;
 // PWM
