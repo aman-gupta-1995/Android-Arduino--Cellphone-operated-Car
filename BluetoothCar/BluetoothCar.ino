@@ -12,7 +12,7 @@ const int IN2 = 3;
 // IN3: 5v; IN4: GND -> Motor B Direction 1 
 // IN3: GND; IN4: 5V -> Motor B Direction 2 
 const int IN3 = 4;
-const int IN4 = 7;
+const int IN4 = 7; 
 
 /** 
  * Ultrasonic Sensor
