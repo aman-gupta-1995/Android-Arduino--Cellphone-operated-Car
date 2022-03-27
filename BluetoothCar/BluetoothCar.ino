@@ -8,7 +8,7 @@ const int ENB = 6; // Port 6: Enable B
 // IN1: 5v; IN2: GND -> Motor A Direction 1       
 // IN1: GND; IN2: 5v -> Motor A Direction 2     
 const int IN1 = 2;   
-const int IN2 = 3; 
+const int IN2 = 3;  
 // IN3: 5v; IN4: GND -> Motor B Direction 1 
 // IN3: GND; IN4: 5V -> Motor B Direction 2
 const int IN3 = 4;
