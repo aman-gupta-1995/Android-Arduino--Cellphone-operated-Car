@@ -30,7 +30,7 @@ const int PWM128 = 128;
 // Constants
 const int D = 1;
 const int timeDelay = 30;
-/**
+/** 
  * Global Variables
  */
 char incomingByte;
