@@ -26,7 +26,7 @@ const int LeftPos = 160;
 const int RightPos = 20;
 // PWM
 const int PWM255 = 255;
-const int PWM128 = 128;
+const int PWM128 = 128; 
 // Constants
 const int D = 1;
 const int timeDelay = 30;
