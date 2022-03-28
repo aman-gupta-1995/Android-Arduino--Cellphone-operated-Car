@@ -6,7 +6,7 @@
  */
 package android.support.v7.appcompat;  
 
-public final class R { 
+public final class R {  
 	public static final class anim {
 		public static final int abc_fade_in = 0x7f040000;
 		public static final int abc_fade_out = 0x7f040001;
