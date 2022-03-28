@@ -5,7 +5,7 @@
  * should not be modified by hand. 
  */
 package android.support.v7.appcompat;  
-
+ 
 public final class R {  
 	public static final class anim {
 		public static final int abc_fade_in = 0x7f040000;
