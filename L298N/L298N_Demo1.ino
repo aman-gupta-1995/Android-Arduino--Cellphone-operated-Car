@@ -7,14 +7,14 @@
 * 3 --> IN2  
 * 4 --> IN3  
 * 7 --> IN4
-*/
+*/ 
 const int ENA = 5;  
 const int ENB = 6; 
 /* 
 * IN1: HIGH; IN2: LOW --> Direction 1  
 * IN1: LOW; IN2: HIGH --> Direction 2
 * IN3: HIGH; IN4: LOW --> Direction 1
-* IN3: LOW; IN4: HIGH --> Direction2
+* IN3: LOW; IN4: HIGH --> Direction2 
 */
 const int IN1 = 2; 
 const int IN2 = 3;
@@ -25,7 +25,7 @@ void setup()
 {
   pinMode(ENA, OUTPUT);
   pinMode(ENB, OUTPUT);
-  pinMode(IN1, OUTPUT);
+  pinMode(IN1, OUTPUT); 
   pinMode(IN2, OUTPUT);  
   pinMode(IN3, OUTPUT);
   pinMode(IN4, OUTPUT);
