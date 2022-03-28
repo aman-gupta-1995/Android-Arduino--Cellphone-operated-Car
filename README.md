@@ -6,7 +6,7 @@ Hardware Requirements:
 *	Arduino Uno board
 *	L298N Dual H-Bridge Motor Driver Shield
 *	Bluetooth Transceiver Chip (Serial Bluetooth Modem)
-*	Vehicle kit 
+*	Vehicle kit
 *	A breadboard and some jumper wires
 
 After some googling I found a good choice from the DX website. Actually these components can be ordered on some other websites ex. Sparkfun, Adafruit or Amazon.  
