@@ -10,7 +10,7 @@
 */
 const int ENA = 5;
 const int ENB = 6; 
-/*
+/* 
 * IN1: HIGH; IN2: LOW --> Direction 1  
 * IN1: LOW; IN2: HIGH --> Direction 2
 * IN3: HIGH; IN4: LOW --> Direction 1
