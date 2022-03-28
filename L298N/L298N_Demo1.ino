@@ -29,7 +29,7 @@ void setup()
   pinMode(IN2, OUTPUT);  
   pinMode(IN3, OUTPUT); 
   pinMode(IN4, OUTPUT);
-  // Enable Motor A, Motor B: Constant Speed
+  // Enable Motor A, Motor B: Constant Speed 
   digitalWrite(ENA, HIGH);
   digitalWrite(ENB, HIGH);
   // Serial communication
