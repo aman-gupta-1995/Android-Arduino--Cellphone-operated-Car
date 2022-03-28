@@ -8,7 +8,7 @@
 * 4 --> IN3  
 * 7 --> IN4
 */
-const int ENA = 5;
+const int ENA = 5; 
 const int ENB = 6; 
 /* 
 * IN1: HIGH; IN2: LOW --> Direction 1  
