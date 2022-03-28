@@ -9,7 +9,7 @@ Hardware Requirements:
 *	Vehicle kit 
 *	A breadboard and some jumper wires 
 
-After some googling I found a good choice from the DX website. Actually these components can be ordered on some other websites ex. Sparkfun, Adafruit or Amazon.
+After some googling I found a good choice from the DX website. Actually these components can be ordered on some other websites ex. Sparkfun, Adafruit or Amazon. 
 
 Software Requirements: 
 *	Arduino IDE (http://arduino.cc/en/main/software)
