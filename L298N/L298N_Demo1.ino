@@ -1,7 +1,7 @@
 /*##### Motor Shield (L298N) #####*/
 /*
 * Arduino Pin --> L298N
-* 5 --> ENA
+* 5 --> ENA 
 * 6 --> ENB
 * 2 --> IN1   
 * 3 --> IN2  
