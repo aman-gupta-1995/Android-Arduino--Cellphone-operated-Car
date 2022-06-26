@@ -5,7 +5,7 @@ public class Device {
 	private String address = "";
 	private String signal = "";    
  
-	public Device(String name, String address, Short signal) { 
+	public Device(String name, String address, Short signal) {  
 		this.name = name;
 		this.address = address;
 		this.signal = Short.toString(signal);
