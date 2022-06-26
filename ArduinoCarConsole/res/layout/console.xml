@@ -44,7 +44,7 @@
             android:drawableBottom="@drawable/foward"
             android:text="@string/forward"
             android:textColor="#33434C" />
-
+ 
         <Button
             android:id="@+id/btnBackward"
             android:layout_width="104dp"
