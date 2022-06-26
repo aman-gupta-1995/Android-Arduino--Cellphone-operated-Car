@@ -39,6 +39,6 @@
                 android:value=".MainActivity" >
             </meta-data>
         </activity>
-    </application>
+    </application> 
 
 </manifest>
