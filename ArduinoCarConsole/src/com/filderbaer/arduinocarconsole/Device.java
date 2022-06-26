@@ -1,6 +1,6 @@
 package com.filderbaer.arduinocarconsole;
 
-public class Device {
+public class Device { 
 	private String name = "";
 	private String address = "";
 	private String signal = ""; 
