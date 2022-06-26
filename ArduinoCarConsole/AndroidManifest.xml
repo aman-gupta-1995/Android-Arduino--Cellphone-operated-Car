@@ -38,7 +38,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" >
             </meta-data>
-        </activity>
+        </activity> 
     </application> 
 
 </manifest>
