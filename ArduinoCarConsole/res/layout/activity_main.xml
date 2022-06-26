@@ -51,5 +51,5 @@
         style="@android:style/Widget.Holo.Button.Borderless.Small" 
         android:textColor="#33434C" 
         android:textSize="18sp" />
-    
+     
 </LinearLayout>
