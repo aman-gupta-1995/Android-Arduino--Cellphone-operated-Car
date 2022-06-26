@@ -9,5 +9,5 @@
         android:title="@string/setting_commands"
         app:showAsAction="never"/>
 
-</menu>
+</menu> 
  
