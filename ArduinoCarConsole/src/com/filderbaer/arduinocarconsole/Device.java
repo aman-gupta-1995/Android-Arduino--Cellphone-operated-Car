@@ -3,7 +3,7 @@ package com.filderbaer.arduinocarconsole;
 public class Device { 
 	private String name = "";
 	private String address = "";
-	private String signal = "";  
+	private String signal = ""; 
 
 	public Device(String name, String address, Short signal) {
 		this.name = name;
