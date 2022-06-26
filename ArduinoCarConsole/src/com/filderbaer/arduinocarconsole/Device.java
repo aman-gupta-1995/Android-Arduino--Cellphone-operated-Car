@@ -1,5 +1,5 @@
 package com.filderbaer.arduinocarconsole;
-
+ 
 public class Device { 
 	private String name = "";
 	private String address = "";
