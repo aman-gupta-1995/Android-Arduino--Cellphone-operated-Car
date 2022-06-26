@@ -33,7 +33,7 @@ public class ArduinoCarConsoleApp extends Application {
 	public static final int MSG_READ = 1;
 	public static final int MSG_WRITE = 2;
 	public static final int MSG_CANCEL = 3;
-	public static final int MSG_CONNECTED = 4;
+	public static final int MSG_CONNECTED = 4; 
 	// Constants that indicate the current connection state
 	public static final int STATE_NONE = 0;
 	public static final int STATE_CONNECTING = 1;
