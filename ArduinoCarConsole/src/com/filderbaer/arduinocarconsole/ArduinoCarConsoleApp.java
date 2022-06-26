@@ -30,7 +30,7 @@ public class ArduinoCarConsoleApp extends Application {
 	private boolean busy, stoppingConnection;
 	// Constants to indicate message contents
 	public static final int MSG_OK = 0;
-	public static final int MSG_READ = 1;
+	public static final int MSG_READ = 1; 
 	public static final int MSG_WRITE = 2;
 	public static final int MSG_CANCEL = 3;
 	public static final int MSG_CONNECTED = 4; 
