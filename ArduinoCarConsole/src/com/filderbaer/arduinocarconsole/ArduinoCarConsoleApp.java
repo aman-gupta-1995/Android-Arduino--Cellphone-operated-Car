@@ -5,7 +5,7 @@ import java.io.InputStream;
 import java.io.OutputStream;  
 import java.util.UUID;
 
-import android.app.Application;
+import android.app.Application; 
 import android.bluetooth.BluetoothDevice;   
 import android.bluetooth.BluetoothSocket;
 import android.os.Handler;
