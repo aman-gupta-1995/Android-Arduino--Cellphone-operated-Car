@@ -23,3 +23,4 @@ public class Device {
 		return signal;
 	}
 }
+ 
