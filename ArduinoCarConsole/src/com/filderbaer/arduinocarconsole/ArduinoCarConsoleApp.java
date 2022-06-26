@@ -26,7 +26,7 @@ public class ArduinoCarConsoleApp extends Application {
 	private BluetoothThread bluetoothThread;
 	private TimeoutThread timeoutThread;
 	private Handler activityHandler;
-	private int state;
+	private int state; 
 	private boolean busy, stoppingConnection;
 	// Constants to indicate message contents
 	public static final int MSG_OK = 0;
