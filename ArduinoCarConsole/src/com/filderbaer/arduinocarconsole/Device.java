@@ -14,7 +14,7 @@ public class Device {
 	public String getName() {
 		return name;
 	}
-
+ 
 	public String getAddress() {
 		return address;
 	}
