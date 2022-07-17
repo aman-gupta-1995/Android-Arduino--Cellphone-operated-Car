@@ -10,7 +10,7 @@ public class Device {
 		this.address = address;
 		this.signal = Short.toString(signal);
 	}
-
+ 
 	public String getName() {
 		return name;
 	}

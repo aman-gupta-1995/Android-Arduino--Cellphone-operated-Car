@@ -2,15 +2,15 @@
 
 This project is about how to use an Android phone to control a robot car, which is based on an Arduino Uno board. After a couple of weeks I assembled a robot car and programmed a very simple App that can send commands to the Arduino with the help of Bluetooth. Let’s dive in!
 
-Hardware Requirements:
-*	Arduino Uno board
+Hardware Requirements: 
+*	Arduino Uno board 
 *	L298N Dual H-Bridge Motor Driver Shield
 *	Bluetooth Transceiver Chip (Serial Bluetooth Modem)
 *	Vehicle kit
 *	A breadboard and some jumper wires
 
 After some googling I found a good choice from the DX website. Actually these components can be ordered on some other websites ex. Sparkfun, Adafruit or Amazon.  
-
+ 
 Software Requirements: 
 *	Arduino IDE (http://arduino.cc/en/main/software)
 
