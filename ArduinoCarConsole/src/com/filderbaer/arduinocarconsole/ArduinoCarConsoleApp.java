@@ -1,12 +1,10 @@
 package com.filderbaer.arduinocarconsole;
 
 import java.io.IOException;
-import java.io.InputStream;
-import java.io.OutputStream;
+import java.io.InputStream; 
+import java.io.OutputStream;  
 import java.util.UUID;
- 
-import android.app.Application;
-import android.bluetooth.BluetoothDevice;
+
 import android.bluetooth.BluetoothSocket;
 import android.os.Handler;
 import android.util.Log;
@@ -26,14 +24,14 @@ public class ArduinoCarConsoleApp extends Application {
 	private BluetoothThread bluetoothThread;
 	private TimeoutThread timeoutThread;
 	private Handler activityHandler;
-	private int state;
+	private int state; 
 	private boolean busy, stoppingConnection;
 	// Constants to indicate message contents
 	public static final int MSG_OK = 0;
-	public static final int MSG_READ = 1;
+	public static final int MSG_READ = 1; 
 	public static final int MSG_WRITE = 2;
 	public static final int MSG_CANCEL = 3;
-	public static final int MSG_CONNECTED = 4;
+	public static final int MSG_CONNECTED = 4; 
 	// Constants that indicate the current connection state
 	public static final int STATE_NONE = 0;
 	public static final int STATE_CONNECTING = 1;

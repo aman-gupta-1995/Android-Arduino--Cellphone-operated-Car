@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.filderbaer.arduinocarconsole"
-    android:versionCode="1"
+    android:versionCode="1" 
     android:versionName="1.0" >
-
-    <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="19" />
+    
+    <uses-sdk    
+        android:minSdkVersion="14" 
+        android:targetSdkVersion="19" />   
  
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
@@ -29,7 +29,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
+        <activity 
             android:name=".ConsoleActivity"
             android:label="Arduino Console"
             android:parentActivityName=".MainActivity"
@@ -38,7 +38,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" >
             </meta-data>
-        </activity>
-    </application>
+        </activity> 
+    </application> 
 
 </manifest>
