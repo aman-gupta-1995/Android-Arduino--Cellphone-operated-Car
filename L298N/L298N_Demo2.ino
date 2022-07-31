@@ -74,7 +74,7 @@ void MotorAB_Direction2(int milliseconds, int speed)
     digitalWrite(ENA, HIGH);
     digitalWrite(ENB, HIGH);
   }
-  else
+  else 
   {
     analogWrite(ENA, speed);
     analogWrite(ENB, speed);
