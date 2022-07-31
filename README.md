@@ -5,7 +5,7 @@ This project is about how to use an Android phone to control a robot car, which 
 Hardware Requirements: 
 *	Arduino Uno board 
 *	L298N Dual H-Bridge Motor Driver Shield    
-*	Bluetooth Transceiver Chip (Serial Bluetooth Modem)
+*	Bluetooth Transceiver Chip (Serial Bluetooth Modem) 
 *	Vehicle kit
 *	A breadboard and some jumper wires 
  
