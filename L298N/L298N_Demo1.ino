@@ -5,7 +5,7 @@
 * 6 --> ENB
 * 2 --> IN1    
 * 3 --> IN2   
-* 4 --> IN3  
+* 4 --> IN3   
 * 7 --> IN4    
 */   
 const int ENA = 5;  
