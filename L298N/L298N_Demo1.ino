@@ -72,7 +72,7 @@ void MotorAB_Brake(int milliseconds)
 {
   digitalWrite(IN1, HIGH);
   digitalWrite(IN2, HIGH);
-  digitalWrite(IN3, HIGH);
+  digitalWrite(IN3, HIGH); 
   digitalWrite(IN4, HIGH);
   if(milliseconds > 0)
     delay(milliseconds);  
