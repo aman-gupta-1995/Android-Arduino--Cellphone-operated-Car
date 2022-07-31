@@ -3,7 +3,7 @@
 /*
 * Arduino Pin --> L298N
 * 5 --> ENA
-* 6 --> ENB
+* 6 --> ENB 
 * 2 --> IN1 
 * 3 --> IN2 
 * 4 --> IN3
