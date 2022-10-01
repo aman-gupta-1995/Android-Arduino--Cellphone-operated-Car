@@ -2,7 +2,7 @@
 
 /**   
  * Motor shield (L298N)    
- */  
+ */   
 const int ENA = 5; // Port 5: Enable A        
 const int ENB = 6; // Port 6: Enable B          
 // IN1: 5v; IN2: GND -> Motor A Direction 1                   
