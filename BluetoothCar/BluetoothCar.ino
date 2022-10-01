@@ -79,7 +79,7 @@ void loop()
       break;
     case 'b':
       Backward();
-      if(checkSafe())
+      if(checkSafe()) 
         stopFlag = false;
       break;
     case 'l':
