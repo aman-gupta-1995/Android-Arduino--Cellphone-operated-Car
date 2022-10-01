@@ -98,7 +98,7 @@ void loop()
           stopFlag = true;
         }
       }
-      break;
+      break; 
     case 'r':
      if(!stopFlag) {
         Right(PWM255);
