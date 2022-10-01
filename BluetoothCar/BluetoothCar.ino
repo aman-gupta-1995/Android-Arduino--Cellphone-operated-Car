@@ -84,7 +84,7 @@ void loop()
       break;
     case 'l':
       if(!stopFlag) {
-        Left(PWM255);
+        Left(PWM255); 
         if(!checkSafe()) {
           Brake();
           stopFlag = true;
